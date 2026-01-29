@@ -1,0 +1,8 @@
+{
+  "name": "Gemini PDF",
+  "description": "A professional note-taking application with AI-powered enhancements, markdown support, and seamless PDF export capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
